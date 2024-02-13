@@ -4,7 +4,7 @@ https://www.figma.com/file/Fpt2pVr4m5VfbQIklG1MTv/150-ChatGPT-Prompts?type=white
 
 ## Resorces:
 
-https://github.com/humanloop/awesome-chatgpt
-https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
-https://github.com/dair-ai/Prompt-Engineering-Guide
-https://github.com/steven2358/awesome-generative-ai
+# https://github.com/humanloop/awesome-chatgpt
+# https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+# https://github.com/dair-ai/Prompt-Engineering-Guide
+# https://github.com/steven2358/awesome-generative-ai
